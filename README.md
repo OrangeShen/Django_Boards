@@ -1,0 +1,1 @@
+## A Django boards project for practise 
